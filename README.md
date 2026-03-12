@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Metin AYIN 👋
 
-<!--
-**metinayingit/metinayingit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Engineer | Software & Game Developer**
 
-Here are some ideas to get you started:
+I am a software engineer focused on developing games and web applications. I enjoy solving complex problems through clean code and effective system architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Core Tech Stack
+
+- **Game Development:** Unity & C#
+- **Web & Backend:** .NET Core, ASP.NET Web API, PHP, JavaScript, HTML, CSS
+- **Database:** MySQL, SQL Server
+- **Technologies & Tools:** Python, Firebase, Git
+
+### 🚀 Projects in Focus
+Currently maintaining [Into the Endless](https://play.google.com/store/apps/details?id=com.metinproductions.IntotheEndless) and developing full-stack management systems.
+
+---
+
+📫 **Get in touch:** [metinayinwork@gmail.com](mailto:metinayinwork@gmail.com) | [LinkedIn](https://linkedin.com/in/metinayin) | [metinayin.com](https://metinayin.com)
