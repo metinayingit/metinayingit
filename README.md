@@ -12,7 +12,7 @@ I am a software engineer focused on developing games and web applications. I enj
 - **Technologies & Tools:** Python, Firebase, Git
 
 ### 🚀 Projects in Focus
-Currently maintaining [Into the Endless](https://play.google.com/store/apps/details?id=com.metinproductions.IntotheEndless) and developing full-stack management systems.
+🔭 Currently developing new features for [Into the Endless](https://play.google.com/store/apps/details?id=com.metinproductions.IntotheEndless), specifically focusing on integrating a real-time multiplayer system using Photon.
 
 ---
 
